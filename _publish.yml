@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 0813b93b-9e6b-49b9-92eb-b4b9605abf70
+      url: 'https://fluffy-longma-f3e3b6.netlify.app'
