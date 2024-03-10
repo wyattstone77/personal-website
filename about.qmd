@@ -1,9 +1,60 @@
----
-title: "About"
----
 
-About this site
 
-```{r}
-1 + 1
-```
+## Work Experience
+
+### Performance Analysis Internship - Rugby FC LA
+
+#### February 2024 - Present
+
+- Intern for Rugby FC LA's inaugural season
+- Conducts filming of both practices and games during the pre-season and regular season
+- Splices and catalogues footage using Hudl SportsCode
+- Performs statistical analysis to analyze trends and patterns to aid decision-making
+
+### Student Assistant - Charles E. Young Research Library
+
+#### June 2023 - Present 
+
+- Catalogs and organizes all UCLA books in the UC Library Database
+- Uses Microsoft Office and Spreadsheets to concentrate data
+- Address technical issues with accessing UCLA information systems
+- Maintains exceptional customer service with all patrons
+
+### Analytics Consultant - UCLA Baseball
+
+#### October 2022 - February 2024
+
+- Utilizing R to improve the decision-making process of scouting for UCLA baseball
+- Mainly focused with the R shiny package as well as SQL to organize data from teams all across the United States
+- Collaborating with other UCLA undergraduates to concentrate baseball data into communal databases
+
+##### Data Journalist
+
+- Pick a quarterly topic to report on self-researched correlations in pro sports.
+- Research raw data and create diagrams in R and Google Sheets to visualize trends.
+- Compose well-written articles that break down data into tangible concepts.
+- The Mystery of the NFL Draft: https://www.bruinsportsanalytics.com/post/positional_value
+- Hot or Cold: A Look at NBA Pacing: https://www.bruinsportsanalytics.com/post/nba_pacing 
+
+### Assistant Program Director - YMCA Camp Edwards
+
+#### June 2019 - August 2021
+
+- Managed a staff of 60+ youth counselors from the months of June until August
+- Ensured the safety and success of camp sessions, which housed 200+ children ages 8 - 14 each week
+- Planned, wrote, and executed creative camp-wide activities
+- Led basketball, rock climbing, soccer, fishing, and kayaking skills for youth campers
+
+### Basketball Statistician - Barrington High School
+
+#### October 2016 - February 2020
+
+- Attended 100+ games per season across the state of Illinois.
+- Took high-paced statistics in real time for players.
+- Coordinated with eight different coaches from Freshman to Varsity levels.
+- Converted statistics to digestible reports in order to guide the team’s decision making.
+- Distinguished as “Manager of the Year” in 2020.
+
+
+
+

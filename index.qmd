@@ -1,11 +1,24 @@
 ---
-title: "personal-website"
+toc: false
+about: 
+  template: trestles
+  links:
+      - icon: linkedin
+        text: LinkedIn
+        url: https://www.linkedin.com/in/wyatt-stone-a4abb5235/
+      - icon: github
+        text: Github
+        url: https://github.com/wyattstone77
+      - icon: inbox-fill
+        text: Email
+        url: "mailto:wyattstone77@g.ucla.edu"
+image: profile-picture.jpeg
 ---
 
-This is a Quarto website.
+## About
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello! My name is Wyatt Stone and I am a student at UCLA. I am a senior graduating with a Bachelors Degree, Majoring in Statistics and Minoring in Film, Television, and Digital Media. 
 
-```{r}
-1 + 1
-```
+Attached is my current [CV](/docs/CV/resume.pdf "CV")
+
+ 

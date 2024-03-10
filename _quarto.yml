@@ -7,9 +7,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Work Experience
       - href: Projects.qmd
-        text: Projects
+        text: Academic Experience
 
 format:
   html:
@@ -19,6 +20,6 @@ format:
     
 execute:
   freeze: auto
-
+ 
 
 

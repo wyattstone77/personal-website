@@ -1,9 +1,22 @@
----
-title: "Projects"
----
 
-About this site
 
-```{r}
-1 + 1
-```
+## Academic Experience
+
+### University of California, Los Angeles
+
+#### September 2020 - June 2024
+
+- Bachelor of Science - BS, Statistics
+
+- Activities and societies: Bruin Sports Analytics, UCLA Data Science Union, UCLA eSports
+
+- Major: Statistics
+
+- Minor: Film, Television, and Digital Media
+
+- GPA: 3.659
+
+- Dean's Honor List Student
+
+
+
